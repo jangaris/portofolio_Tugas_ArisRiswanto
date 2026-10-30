@@ -87,13 +87,13 @@ Pastikan PHP dan Composer sudah terinstal pada komputer.
 **unduh salinan repository GitHub ke komputer lokal.**
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/jangaris/portofolio_Tugas_ArisRiswanto.git
 ```
 
 **Masuk ke file yang di unduh tadi**
 
 ```bash
-cd REPOSITORY
+cd portofolio_Tugas_ArisRiswanto
 
 ```
 
